@@ -7,7 +7,7 @@
 
 ---
 
-<!-- <img src="./thumbnail.png" alt="El mundo del revés — captura de pantalla principal" width="100%" style="border-radius:8px;" /> -->
+<img src="./thumbnail.png" alt="Prueba el mundo del reves — captura de pantalla principal" width="100%" style="border-radius:8px;" />
 
 ---
 
@@ -15,11 +15,17 @@
 
 ---
 
+## 🔗 Prueba la aplicación en tu navegador
+
+- 🚀 [Demo en vivo — Streamlit Community Cloud](https://mundo-del-reves.streamlit.app/)
+
+---
+
 ## 📖 Descripción detallada
 
 **El mundo del revés** es una aventura de texto interactiva diseñada con fines educativos. Su objetivo es acercar a los alumnos de secundaria a los conceptos fundamentales de la Programación Orientada a Objetos (POO) de una manera lúdica y visualmente atractiva, utilizando la estética de la serie Stranger Things.
 
-La aplicación permite a los usuarios tomar decisiones que afectan el transcurso de la historia, interactuar con personajes y enfrentarse a monstruos, todo ello gestionado mediante una estructura de clases, herencia y polimorfismo.
+La aplicación permite a los usuarios tomar decisiones que afectan el transcurso de la historia, interactuar con personajes y enfrentarse a monstruos, todo ello gestionado mediante una estructura de clases, herencia y polimorfismo.** 
 
 ---
 
@@ -41,6 +47,13 @@ stranger_things_app/
 ├── requirements.txt    # Librerías necesarias
 └── README.md           # Este archivo
 ```
+
+---
+
+
+## 🤖 Desarrollo asistido por IA (Vibe Coding)
+
+Este ecosistema ha sido desarrollado íntegramente mediante **AI-Driven Development**, orquestando modelos avanzados de lenguaje (LLMs) para la arquitectura, lógica y diseño. Las fases clave han incluido conceptualización arquitectónica y un proceso iterativo de depuración de código guiado exclusivamente por IA.
 
 ---
 
@@ -111,9 +124,21 @@ Este proyecto ha sido concebido para uso educativo. Se sugieren los siguientes p
 
 ---
 
+## 📄 Uso
+
+Este proyecto ha sido concebido para uso demostrativo, educativo y como prueba de concepto (PoC) del potencial transformador que tienen las tecnologías generativas en la creación rápida de software.
+
+---
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas ampliar el contenido, añadir funcionalidades, o sugerir mejoras arquitectónicas, puedes abrir un *Issue* o enviar un *Pull Request* al repositorio.
+
+---
+
 ## 📜 Licencia
 
-Este proyecto está bajo la Licencia **MIT**.
+Este proyecto está bajo la Licencia **MIT**. Consulta el archivo [LICENSE](./LICENSE) incluido en el repositorio para más detalles.
 
 ---
 
@@ -122,4 +147,4 @@ Este proyecto está bajo la Licencia **MIT**.
 **Jose Antonio Arias Lombardero**
 *Experto en Inteligencia Artificial aplicada al sector público, innovación, contratación y fondos europeos.*
 
-🔗 [Consulta mi portfolio completo de aplicaciones y trayectoria profesional](https://ariaslombardero.es/)
+Esta aplicación forma parte de un portfolio de soluciones tecnológicas conceptualizadas, desarrolladas y desplegadas en entornos cloud para su aplicación en el sector público y en otros sectores. Mi objetivo es demostrar cómo el uso estratégico de modelos avanzados de IA (Vibe Coding) puede escalar radicalmente la digitalización, la operatividad y la alfabetización tecnológica de la Administración y del resto del sector público.
