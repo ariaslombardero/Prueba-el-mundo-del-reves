@@ -1,4 +1,4 @@
-# Stranger Things — El mundo del revés
+# El mundo del revés
 
 Aventura de texto interactiva con estética de Stranger Things, construida con Python y Streamlit.
 Desarrollada como demostración para alumnos de secundaria de cómo los conceptos de
